@@ -159,3 +159,4 @@ fi
 
 %changelog
 * Mon Mar 12 2018 Justin Jessup <Justin@alienonesecurity.com> - 3.4.11
+- Bump version 3.4.11
